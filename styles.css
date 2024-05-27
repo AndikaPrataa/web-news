@@ -1,0 +1,28 @@
+.jumbotron {
+	background-image: url(image/jumbotron.jpg);
+	background-size: cover;
+	height: 250px;
+	width: 100%;
+	text-align: center;
+	margin-top: 56px;
+}
+
+.display-4 {
+	color: aliceblue;
+	text-align: center;
+
+}
+
+table {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+audio {
+	width : 418px;
+}
+
+.card-text {
+	text-align: justify;
+}
+
